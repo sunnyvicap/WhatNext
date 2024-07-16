@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_number": "681688695652",
+    "project_id": "logicon-flutter",
+    "storage_bucket": "logicon-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681688695652:android:5eb4c3d971adee1839f071",
+        "android_client_info": {
+          "package_name": "com.whatnext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681688695652-5njn3mugkgs41pg8v8c42k0gp0mohmb1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.whatnext",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "681688695652-vv9r6c2um3c94k4qjmo6umhmueittgre.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.whatnext",
+            "certificate_hash": "5b67956d33f6c35ba3a56257d25ef99896a486a9"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB06-edexxXp47johgOYXyYbol8sHxxti8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681688695652-d7vti0o0c9eln15qbpepnk3fjj6i3je4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
